@@ -32,7 +32,7 @@ pip install chardet deep-translator colorama
 
 **2- Execute o script com o comando:**
 ```bash
-python PGN\ Translator.py
+python PGNTranslator.py
 ```
 
 **3- Siga as instruções na tela para:**
